@@ -1,0 +1,16 @@
+{
+	"boilerplate": {
+		"prefix": "program c",
+		"body":[
+			"#include<stdio.h>", 
+				
+				"int main(){",
+				"\t$1",
+				"return 0;"
+				"}",
+				],
+						"description":"this is program c"
+		} 
+		
+	
+	}
